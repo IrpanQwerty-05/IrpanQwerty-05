@@ -1,6 +1,7 @@
 ![XD](https://img.shields.io/badge/MyName-Irpan--Sopian-blue)
 
 ![IrpanSopian](https://github-readme-stats.vercel.app/api?username=IrpanQwerty-05&show_icons=true&theme=radical)
+<a href="https://github.com/IrpanQwerty-05/IRBSF-V2"><img title="IRBSF-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=IrpanQwerty-05&repo=IRBSF-V2&theme=vision-friendly-dark"></a>
 
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/99561674/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
 ### ＤＯＮＡＴＥ
