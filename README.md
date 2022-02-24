@@ -11,11 +11,14 @@
 
 <a href="https://github.com/IrpanQwerty-05/IRBSF-V2"><img title="IRBSF-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=IrpanQwerty-05&repo=IRBSF-V2&theme=vision-friendly-dark"></a>
 
+<h2><b><i>About Me 👋</i></b></h2>
+<b><i>I like to play on the internet and love to learn the Program 🖥</i></b>
+
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/99561674/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
-### ＤＯＮＡＴＥ
+<h2><b>If you want to send a donation to me 💸</i></b></h2>
 <a href="https://saweria.co/irpansopian">CLICK HERE !</a>
 
-### FOLLOW MY SOCIAL MEDIA
+<h2><b><i>Follow my Social Media 😸</i></b></h2>
 
 <a href="https://www.facebook.com/irpan.qwerty"><img width="50" height="50" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>
 <a href="https://www.messenger.com/irpan.qwerty"><img width="50" height="50" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
