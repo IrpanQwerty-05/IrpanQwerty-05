@@ -1,4 +1,4 @@
-![XD](https://img.shields.io/badge/MyName-Irpan--Sopian-blue)
+![XD](https://img.shields.io/badge/Hi,Im-Irpan--Sopian-cyan)
 
 <p align="center">
   <img alt="Statistik Github IrpanQwerty-05" src="https://github-readme-stats.vercel.app/api?username=IrpanQwerty-05&show_icons=true&include_all_commits=true&hide_border=true" />
