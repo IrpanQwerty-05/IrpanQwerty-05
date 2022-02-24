@@ -1,5 +1,4 @@
 ![XD](https://img.shields.io/badge/MyName-Irpan--Sopian-blue)
-[![XD](https://img.shields.io/badge/Written%20in-python-blue)](#)
 
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/99561674/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
 ### ＤＯＮＡＴＥ
