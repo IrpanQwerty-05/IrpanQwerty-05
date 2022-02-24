@@ -5,6 +5,10 @@
 <!-- <img alt="gambar profil" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" /> -->
 <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IrpanQwerty-05&hide=ruby,perl&hide_border=true" /> -->
 </p>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/IrpanQwerty-05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrpanQwerty-05&layout=compact&theme=react&hide_border=true" />
+
 <a href="https://github.com/IrpanQwerty-05/IRBSF-V2"><img title="IRBSF-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=IrpanQwerty-05&repo=IRBSF-V2&theme=vision-friendly-dark"></a>
 
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/99561674/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
