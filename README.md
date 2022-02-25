@@ -1,3 +1,5 @@
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
+
 ![XD](https://img.shields.io/badge/Hi,Im-Irpan--Sopian-cyan)
 
 <p align="center">
@@ -11,7 +13,7 @@
 
 <a href="https://github.com/IrpanQwerty-05/IRBSF-V2"><img title="IRBSF-V2" src="https://github-readme-stats.vercel.app/api/pin/?username=IrpanQwerty-05&repo=IRBSF-V2&theme=vision-friendly-dark"></a>
 
-<h2><b><i>About Me 👋</i></b></h2>
+<h2><b><i>About Me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 <b><i>I like to play on the internet and love to learn the Program 🖥</i></b>
 
 ![FB_IMG_16455258245982020](https://user-images.githubusercontent.com/99561674/155497091-3f177f4e-e8e0-4fcc-8fec-90894be3b55c.jpg)
