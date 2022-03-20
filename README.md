@@ -1,5 +1,4 @@
-
-![XD](https://img.shields.io/badge/Hi,Im-Irpan--Sopian-cyan)
+<h2 align="left">Hi i'm Irpan Sopian 👋</h2>
 
 <p align="center">
   <img alt="Statistik Github IrpanQwerty-05" src="https://github-readme-stats.vercel.app/api?username=IrpanQwerty-05&show_icons=true&include_all_commits=true&hide_border=true" />
@@ -30,5 +29,5 @@
   <a href="https://youtube.com/channel/UC7swDqHCbdjxIWj2jkU5HNQ?sub_confirmation=1"><img title="Subscribe on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<h2><b>donation to me 💸</i></b></h2>
+<h2 align="left">💰 Donate</h2>
 <a href="https://saweria.co/irpansopian">CLICK HERE !</a>
